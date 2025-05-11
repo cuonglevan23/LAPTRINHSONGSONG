@@ -1,0 +1,5 @@
+There are other articles on medium covering hadoop installation on macOS ARM, however, I’m writing this because I’ve tried them and they did not have several crucial information. I’ve covered every single issue that I went through while attempting to install.
+
+Follow the below steps carefully and in order. It took me a really long time to set it up correctly after running into quite a few roadblocks. The overall process is pretty straightforward. Good luck.
+
+Install hadoop with brew.
